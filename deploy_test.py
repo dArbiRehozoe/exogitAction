@@ -1,1 +1,1 @@
-print "OK test Application deployed successfully ........"
+print("OK test Application deployed successfully ........")
